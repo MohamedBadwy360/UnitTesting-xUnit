@@ -1,0 +1,11 @@
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\bin\Debug\net5.0\UnitTesting02.Projects.deps.json
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\bin\Debug\net5.0\UnitTesting02.Projects.dll
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\bin\Debug\net5.0\UnitTesting02.Projects.pdb
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\obj\Debug\net5.0\UnitTesting02.Projects.GeneratedMSBuildEditorConfig.editorconfig
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\obj\Debug\net5.0\UnitTesting02.Projects.AssemblyInfoInputs.cache
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\obj\Debug\net5.0\UnitTesting02.Projects.AssemblyInfo.cs
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\obj\Debug\net5.0\UnitTesting02.Projects.csproj.CoreCompileInputs.cache
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\obj\Debug\net5.0\UnitTesting02.Projects.dll
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\obj\Debug\net5.0\refint\UnitTesting02.Projects.dll
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\obj\Debug\net5.0\UnitTesting02.Projects.pdb
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\UnitTesting02.Projects\obj\Debug\net5.0\ref\UnitTesting02.Projects.dll

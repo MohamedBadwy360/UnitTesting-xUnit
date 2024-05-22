@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "UnitTesting02.Projects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/UnitTesting02.Projects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnitTesting02.Projects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitTesting02.Projects/1.0.0": {
+      "type": "project",
+      "path": "../UnitTesting02.Projects/UnitTesting02.Projects.csproj",
+      "msbuildProject": "../UnitTesting02.Projects/UnitTesting02.Projects.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "UnitTesting02.Projects >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mohamed Badwy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\ME\\Study\\Software Engineering\\.NET\\07_UnitTesting\\UnitTesting\\UnitTesting02.ConsoleApp\\UnitTesting02.ConsoleApp.csproj",
+      "projectName": "UnitTesting02.ConsoleApp",
+      "projectPath": "F:\\ME\\Study\\Software Engineering\\.NET\\07_UnitTesting\\UnitTesting\\UnitTesting02.ConsoleApp\\UnitTesting02.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Mohamed Badwy\\.nuget\\packages\\",
+      "outputPath": "F:\\ME\\Study\\Software Engineering\\.NET\\07_UnitTesting\\UnitTesting\\UnitTesting02.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Mohamed Badwy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "F:\\ME\\Study\\Software Engineering\\.NET\\07_UnitTesting\\UnitTesting\\UnitTesting02.Projects\\UnitTesting02.Projects.csproj": {
+              "projectPath": "F:\\ME\\Study\\Software Engineering\\.NET\\07_UnitTesting\\UnitTesting\\UnitTesting02.Projects\\UnitTesting02.Projects.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UnitTesting02.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "UnitTesting02.Projects": "1.0.0"
+        },
+        "runtime": {
+          "UnitTesting02.ConsoleApp.dll": {}
+        }
+      },
+      "UnitTesting02.Projects/1.0.0": {
+        "runtime": {
+          "UnitTesting02.Projects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitTesting02.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnitTesting02.Projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
