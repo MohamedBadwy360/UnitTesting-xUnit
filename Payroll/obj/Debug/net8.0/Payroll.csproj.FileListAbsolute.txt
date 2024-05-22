@@ -1,0 +1,14 @@
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\bin\Debug\net8.0\Payroll.exe
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\bin\Debug\net8.0\Payroll.deps.json
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\bin\Debug\net8.0\Payroll.runtimeconfig.json
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\bin\Debug\net8.0\Payroll.dll
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\bin\Debug\net8.0\Payroll.pdb
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\Payroll.AssemblyInfoInputs.cache
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\Payroll.AssemblyInfo.cs
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\Payroll.csproj.CoreCompileInputs.cache
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\Payroll.dll
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\refint\Payroll.dll
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\Payroll.pdb
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\Payroll.genruntimeconfig.cache
+F:\ME\Study\Software Engineering\.NET\07_UnitTesting\UnitTesting\Payroll\obj\Debug\net8.0\ref\Payroll.dll
